@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8d/0c/d2/8d0cd25f2b72f3d1716d60f02cfa1b77.jpg" alt="Mi Foto de Perfil" style="border-radius: 50%; width: 200px; height: 200px;">
-</p>
-
-Hi 👋 My name is Abel Alejandro
+Hi there 👋 
 ===============================
 
 UX & Web developer
