@@ -1,6 +1,7 @@
 Hi there 👋 
 ===============================
-![Untitled-1](https://github.com/AbelAlejandroDev/AbelAlejandroDev/assets/159961445/0e874b34-6718-4fa6-9926-1f5141f1b3da)
+
+![Uploading Untitled-1.jpg…]()
 
 UX & Web developer
 ------------------
